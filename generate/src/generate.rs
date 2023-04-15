@@ -32,7 +32,7 @@ impl Words {
                 |(mut first_words, mut second_words), words| {
                     id += 1;
                     first_words.push(Word {
-                        word: words[0].clone(),
+                        word: words[0].clone().replace(" ", "-"),
                         id,
                     });
                     second_words.push(Word {
@@ -56,8 +56,8 @@ impl Words {
             .map(|sentence| {
                 num += 1;
                 format!(
-                    "mimic3 --voice nl/flemishguy_low '{}' > /home/daniel/test/js/my-app/public/sounds/{}{}.mp3",
-                    sentence.word, num, sentence.word
+                    "mimic3 --voice nl/flemishguy_low '{}' > /home/daniel/test/js/my-app/public/sounds/{}.mp3",
+                    sentence.word,  sentence.word
                 )
             })
             .collect::<Vec<String>>();

@@ -1,11 +1,89 @@
-Gezellig - Cozy, sociable, pleasant
-Uitwaaien - To go outside and clear one's head
-Trekpleister - Tourist attraction
-Beschuit met muisjes - Traditional Dutch birth announcement treat (rusk with
-sugar-coated aniseed)
-Winkelhaak - Set square, carpenter's square
-Zoute drop - Salty licorice candy
-Krentenwegge - Sweet bread with raisins, traditionally served at weddings and funerals
-Geboortekaartje - Birth announcement card
-Poldermodel - Dutch consensus-based approach to decision-making
-Stroopwafel - Traditional Dutch waffle cookie with syrup filling.
+Aanbieding - Offer
+Bloem - Flower
+Cultuur - Culture
+Doel - Goal
+Energie - Energy
+Feest - Party
+Groenten - Vegetables
+Huiswerk - Homework
+Inhoud - Content
+Jassen - Coats
+Koken - Cooking
+Liefde - Love
+Moedertaal - Mother tongue
+Natuurlijk - Natural
+Ochtend - Morning
+Parkeren - Parking
+Quiz - Quiz
+Restaurant - Restaurant
+Slapen - Sleep
+Trui - Sweater
+Uitgang - Exit
+Verandering - Change
+Wonen - Living
+Xylofoon - Xylophone
+Yoghurt - Yogurt
+Zonsondergang - Sunset
+Aandoening - Condition
+Beroep - Profession
+Computer - Computer
+Dromen - Dreaming
+Eend - Duck
+Familie - Family
+Gelukkig - Happy
+Hoofd - Head
+Inrichting - Furnishings
+Jacht - Hunt
+Kruiswoordraadsel - Crossword puzzle
+Lachen - Laughing
+Maan - Moon
+Nieuws - News
+Ontspanning - Relaxation
+Persoonlijk - Personal
+Quizzen - Quizzing
+Rustig - Quiet
+Slaapkamer - Bedroom
+Telefoon - Telephone
+Uitgaan - Going out
+Vrienden - Friends
+Wensen - Wishes
+Xenofoob - Xenophobic
+Yacht - Yacht
+Zenuwachtig - Nervous
+Ananas - Pineapple
+Buitenland - Abroad
+Cadeaus - Gifts
+Diner - Dinner
+Enkel - Ankle
+Fotograaf - Photographer
+Gebak - Pastry
+Hart - Heart
+Insect - Insect
+Judo - Judo
+Kasteel - Castle
+Lezen - Reading
+Muziek - Music
+Noodzakelijk - Necessary
+Ontbijten - Having breakfast
+Pijnlijk - Painful
+Quizshow - Quiz show
+Regen - Rain
+Sport - Sport
+Theorie - Theory
+Uitnodigen - Inviting
+Verhuizen - Moving
+Wind - Wind
+Xenon - Xenon
+Yogalessen - Yoga classes
+Ziekenhuis - Hospital
+Antwoorden - Answers
+Boodschappen - Groceries
+Dromenvanger - Dreamcatcher
+Eeuwigheid - Eternity
+Fles - Bottle
+Grote - Big
+Hoog - High
+Inzicht - Insight
+Juwelen - Jewels
+Kinderen - Children
+Leren - Learning

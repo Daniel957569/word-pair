@@ -1,10 +1,3 @@
-.container {
-    outline: 2px solid red;
-    height: 100%;
-    width: 50%;
-    margin-left: 25%;
-}
-
 .button {
     padding: 10px;
     margin: 10px;
@@ -22,6 +15,8 @@
   flex-direction: row;
   justify-content: center;
   align-items: center;
+    width: 100%;
+    height: 80%;
 }
 
 .button-set {
@@ -30,4 +25,18 @@
   justify-content: space-between;
   align-items: center;
   margin: 10px;
+}
+
+.generate-button {
+    background-color: #f2f2f2;
+    border-bottom-color: #999;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1.5rem;
+    font-weight: bold;
+    transition: background-color 0.4s;
+    margin-left: 45.5%;
+    margin-top: 1%;
+    width: 10rem;
+
 }

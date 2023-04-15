@@ -5,16 +5,15 @@ use actix_web::{get, App, HttpResponse, HttpServer, Responder};
 #[get("/get_words")]
 async fn get_words() -> impl Responder {
     let words = generate::Words::get_words("../words.txt");
-    println!("getting words... here: {:?}", words);
 
     HttpResponse::Ok().json(words)
 }
 
 #[get("/generate_sounds")]
 async fn generate_sounds() -> String {
-    let words = generate::Words::get_words("../words.tx");
+    let words = generate::Words::get_words("../words.txt");
     let result = generate::Words::generate_sounds(&words.dutch);
-    println!("generating...");
+    println!("{:?}", result);
 
     return result;
 }
@@ -23,11 +22,11 @@ async fn generate_sounds() -> String {
 async fn main() -> std::io::Result<()> {
     HttpServer::new(|| {
         App::new()
-            .wrap(Cors::default())
+            .wrap(Cors::default().allow_any_origin())
             .service(get_words)
             .service(generate_sounds)
     })
-    .bind(("127.0.0.1", 8080))?
+    .bind(("127.0.0.1", 3070))?
     .run()
     .await
 }
