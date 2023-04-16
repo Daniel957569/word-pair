@@ -160,6 +160,7 @@ function App() {
     function handleNextWords() {
         setCorrectCounts({count: correctCounts.top_count, top_count: correctCounts.top_count + 10})
         setTriggerChange(true);
+        setWordsClicked({english_id: -1, dutch_Id: -1, count: 0})
     }
 
     return (

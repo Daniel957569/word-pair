@@ -49,12 +49,11 @@ impl Words {
         }
     }
 
-    pub fn generate_sounds(words: &Vec<Word>) -> String {
-        let mut num = 0;
+    pub fn generate_sounds(words: &mut Vec<Word>) -> String {
+        Self::filter_reptitve_words(words);
         let commands = words
             .iter()
             .map(|sentence| {
-                num += 1;
                 format!(
                     "mimic3 --voice nl/flemishguy_low '{}' > /home/daniel/test/js/my-app/public/sounds/{}.mp3",
                     sentence.word,  sentence.word
@@ -75,4 +74,26 @@ impl Words {
             false => "generate sounds has failed.".to_string(),
         }
     }
+    pub fn filter_reptitve_words(words: &mut Vec<Word>) -> &Vec<Word> {
+        let entries = fs::read_dir("/home/daniel/test/js/my-app/public/sounds/").unwrap();
+        let exiting_words = entries
+            .map(|file| {
+                let dir_entry = file.unwrap();
+                let length = dir_entry.file_name().len();
+                return dir_entry
+                    .file_name()
+                    .to_string_lossy()
+                    .to_string()
+                    .split_at(length - 4)
+                    .0
+                    .to_string();
+            })
+            .collect::<Vec<String>>();
+
+        words.retain(|w| !exiting_words.contains(&w.word));
+
+        return words;
+    }
 }
+
+impl Word {}
