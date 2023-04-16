@@ -27,7 +27,7 @@ function App() {
 
     useEffect(() => {
         if (wordData == null) {
-            axios.get('http://localhost:3070/get_words')
+            axios.get('http://localhost:3001/get_words')
                 .then(response => {
                     setWordData(response.data);
 
@@ -45,7 +45,7 @@ function App() {
     useEffect(() => {
         if (isGenerating) {
             console.log("generating...");
-            axios.get('http://localhost:3070/generate_sounds')
+            axios.get('http://localhost:3001/generate_sounds')
                 .then(setIsGenerating(false))
                 .catch(error => console.error(error));
             setIsGenerating(false);

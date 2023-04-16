@@ -24,7 +24,7 @@ impl Words {
             .lines()
             .map(|line| {
                 line.split('-')
-                    .map(|s| s.trim().to_string())
+                    .map(|s| s.replace("?", " ").trim().to_string())
                     .collect::<Vec<String>>()
             })
             .fold(

@@ -1,200 +1,30 @@
-Appel - Apple
-Boek - Book
-Huis - House
-Klok - Clock
-Auto - Car
-Fiets - Bicycle
-Taart - Cake
-Muziek - Music
-Schrijven - To write
-Lezen - To read
-Praten - To talk
-Leren - To learn
-Spreken - To speak
-Luisteren - To listen
-Eten - To eat
-Drinken - To drink
-Slapen - To sleep
-Wonen - To live
-Werken - To work
-Zwemmen - To swim
-Wandelen - To walk
-Lopen - To run
-Vliegen - To fly
-Trein - Train
-Bus - Bus
-Boot - Boat
-Tram - Tram
-Vliegtuig - Airplane
-Zee - Sea
-Strand - Beach
-Bergen - Mountains
-Rivier - River
-Kasteel - Castle
-Museum - Museum
-Film - Movie
-Televisie - Television
-Computer - Computer
-Telefoon - Telephone
-Foto - Photo
-Camera - Camera
-Kleding - Clothes
-Schoenen - Shoes
-Tafel - Table
-Stoel - Chair
-Bank - Couch
-Kussen - Pillow
-Dekbed - Duvet
-Lamp - Lamp
-Raam - Window
-Deur - Door
-Aardbei - Strawberry
-Banaan - Banana
-Sinaasappel - Orange
-Citroen - Lemon
-Perzik - Peach
-Peer - Pear
-Druif - Grape
-Meloen - Melon
-Komkommer - Cucumber
-Paprika - Bell pepper
-Wortel - Carrot
-Ui - Onion
-Knoflook - Garlic
-Champignon - Mushroom
-Brood - Bread
-Kaas - Cheese
-Boter - Butter
-Ei - Egg
-Melk - Milk
-Koffie - Coffee
-Thee - Tea
-Water - Water
-Bier - Beer
-Wijn - Wine
-Frisdrank - Soft drink
-Sap - Juice
-Honing - Honey
-Suiker - Sugar
-Zout - Salt
-Peper - Pepper
-Olijfolie - Olive oil
-Azijn - Vinegar
-Mayonaise - Mayonnaise
-Mosterd - Mustard
-Ketchup - Ketchup
-Curry - Curry
-Pindakaas - Peanut butter
-Hagelslag - Chocolate sprinkles
-Poffertjes - Dutch mini pancakes
-Stroopwafel - Dutch syrup waffle
-Friet - French fries
-Kroket - Croquette
-Frikandel - Dutch meat snack
-Hamburger - Hamburger
-Pizza - Pizza
-Sushi - Sushi
-Vis - Fish
-Vlees - Meat
-Groente - Vegetables
-Fruit - Fruit
-Rennen - To run
-Vangen - To catch
-Vergeten - To forget
-Zingen - To sing
-Dansen - To dance
-Tekenen - To draw
-Kleuren - To color
-Schilderen - To paint
-Knutselen - To craft
-Bouwen - To build
-Slopen - To demolish
-Breken - To break
-Repareren - To repair
-Wassen - To wash
-Drogen - To dry
-Strijken - To iron
-Opruimen - To tidy up
-Schoonmaken - To clean
-Koken - To cook
-Bakken - To bake
-Grillen - To grill
-Frituren - To fry
-Roosteren - To roast
-Schrijven - To write
-Lezen - To read
-Leren - To learn
-Begrijpen - To understand
-Herhalen - To repeat
-Vertellen - To tell
-Schreeuwen - To shout
-Fluisteren - To whisper
-Luisteren - To listen
-Kijken - To look
-Zien - To see
-Voelen - To feel
-Ruiken - To smell
-Proeven - To taste
-Slapen - To sleep
-Wakker worden - To wake up
-Opstaan - To get up
-Werken - To work
-Studeren - To study
-Begrijpen - To understand
-Bezoeken - To visit
-Wachten - To wait
-Veranderen - To change
-Verbeteren - To improve
-Aanpassen - To adapt
-Ontdekken - To discover
-Uitvinden - To invent
-Verzamelen - To collect
-Delen - To share
-Uitleggen - To explain
-Begrijpen - To understand
-Onthouden - To remember
-Vergeten - To forget
-Oefenen - To practice
-Trainen - To train
-Werken - To work
-Bestuderen - To examine
-Oplossen - To solve
-Beslissen - To decide
-Proberen - To try
-Slagen - To succeed
-Falen - To fail
-Reizen - To travel
-Plannen - To plan
-Organiseren - To organize
-Invullen - To fill in
-Controleren - To check
-Schrijven - To write
-Lezen - To read
-Kopen - To buy
-Verkopen - To sell
-Huren - To rent
-Verhuren - To rent out
-Lenen - To borrow
-Teruggeven - To give back
-Sparen - To save (money)
-Verdienen - To earn
-Winnen - To win
-Verliezen - To lose
-Helpen - To help
-Lachen - To laugh
-Huilen - To cry
-Antwoorden - To answer
-Vragen - To ask
-Weigeren - To refuse
-Accepteren - To accept
-Begroeten - To greet
-Afscheid nemen - To say goodbye
-Vieren - To celebrate
-Rouwen - To mourn
-Troosten - To comfort
-Begeleiden - To guide
-Volgen - To follow
-Leiden - To lead
-Verlaten - To leave
-Blijven - To stay
-Terugkomen - To come back
+Goedemorgen! - Good morning!
+Goedemiddag! - Good afternoon!
+Goedenavond! - Good evening!
+Hoe gaat het met je? - How are you?
+Het gaat goed, dank je. En met jou? - I'm doing well, thank you. And you?
+Ik heet... - My name is...
+Waar kom je vandaan? - Where are you from?
+Ik kom uit... - I'm from...
+Spreek je Engels? - Do you speak English?
+Ja, een beetje. - Yes, a little bit.
+Nee, ik spreek geen Nederlands. - No, I don't speak Dutch.
+Bedankt! - Thank you!
+Graag gedaan. - You're welcome.
+Sorry! - Sorry!
+Excuseer me. - Excuse me.
+Ik begrijp het niet. - I don't understand.
+Kunt u dat herhalen, alstublieft? - Could you repeat that, please?
+Mag ik u iets vragen? - May I ask you something?
+Natuurlijk. - Of course.
+Ik ben verdwaald. - I'm lost.
+Kunt u me de weg wijzen naar...? - Can you show me the way to...?
+Hoeveel kost dat? - How much does that cost?
+Ik zou graag willen bestellen. - I would like to order.
+Mag ik de rekening, alstublieft? - May I have the bill, please?
+Tot ziens! - Goodbye!
+Fijne dag verder! - Have a nice day!
+Ik hou van jou. - I love you.
+Ik mis je. - I miss you.
+Veel succes! - Good luck!
+Mag ik binnenkomen? - May I come in?
